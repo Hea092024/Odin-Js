@@ -24,3 +24,5 @@ const max = 57;
 const actual =57 - 13;
 const perecentage = actual / max;
 //Write percentage in console to get the answer of this question
+// alert(max + actual); //this will promt the user with an alert and show number 101
+
