@@ -10,7 +10,9 @@ console.log (name);
 console.log(surname);
 console.log(name + " " + surname);
 
-const pi = 3.14;
-pi =10;
-console.log(pi); // it will give an error, because pi is a constant
+// const pi = 3.14;
+// pi =10;
+// console.log(pi); // it will give an error, because pi is a constant
 
+let number = (4 + 6 + 9) / 77;
+console.log(number);
