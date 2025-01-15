@@ -16,3 +16,11 @@ console.log(name + " " + surname);
 
 let number = (4 + 6 + 9) / 77;
 console.log(number);
+
+let a = 10;
+console.log(a);
+
+const max = 57;
+const actual =57 - 13;
+const perecentage = actual / max;
+//Write percentage in console to get the answer of this question
