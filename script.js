@@ -1,4 +1,6 @@
 let name = "Hector"
-let surename = "Acevedo"
+let surname = "Acevedo"
 
-console.log(name + " " + surename)
+console.log (name);
+console.log(surname);
+console.log(name + " " + surname);
