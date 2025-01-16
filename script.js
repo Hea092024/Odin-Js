@@ -29,3 +29,8 @@ const perecentage = actual / max;
 const name1 = "Hector";
 const greetings = `Hello, ${name1}`;
 console.log(greetings);
+
+const one = "Hello,";
+const two = "how are you?";
+const joined = `${one} ${two}`;
+console.log(joined);
