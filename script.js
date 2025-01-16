@@ -26,3 +26,6 @@ const perecentage = actual / max;
 //Write percentage in console to get the answer of this question
 // alert(max + actual); //this will promt the user with an alert and show number 101
 
+const name1 = "Hector";
+const greetings = `Hello, ${name1}`;
+console.log(greetings);
